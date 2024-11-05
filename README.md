@@ -39,4 +39,5 @@ This is where we use excel formulas to calculate some metrics such as;
    As show below;
 ![excel sales data](https://github.com/user-attachments/assets/627e69b6-2f59-403e-a37e-40f1dc5e49da)
 
-
+  - Pivot table to summarize total sales by product, region and month
+    
