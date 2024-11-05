@@ -1,4 +1,4 @@
-# LITA_Capstone_Project
+ # LITA_Capstone_Project
 
 ## Project Title: Retail Store Sales Performance Analysis
 
@@ -52,6 +52,11 @@ This is where we use excel formulas to calculate some metrics such as;
     ![sql sales data 4](https://github.com/user-attachments/assets/3201876f-bbb8-4e3e-9ddf-177b639a1065)
      ![sql sales data10](https://github.com/user-attachments/assets/7b2f856b-031f-468d-96b0-1001d3810342)
      ![sql sales data11](https://github.com/user-attachments/assets/30a40a2a-cd8b-4831-a6dc-ca60df753b6f)
+
+    ### Data Visualization
+    ---
+    Data Visualization using Power BI
+    
 
 
  
