@@ -30,4 +30,11 @@ EDA involved the exploring of the data to answer some questions about the data s
  - what is the total number of customers
  - what is the highest selling product
 
+### Data Analysis
+---
+This is where we use excel formulas to calculate some metrics such as; 
+  - Total Sales
+  - Average sales per product
+  - Total revenue by region.
+As show below;
 
