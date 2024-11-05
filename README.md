@@ -36,5 +36,7 @@ This is where we use excel formulas to calculate some metrics such as;
   - Total Sales
   - Average sales per product
   - Total revenue by region.
-As show below;
+   As show below;
+![excel sales data](https://github.com/user-attachments/assets/627e69b6-2f59-403e-a37e-40f1dc5e49da)
+
 
