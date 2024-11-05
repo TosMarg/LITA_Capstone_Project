@@ -21,6 +21,13 @@ The primary source of Data used here is the Sales Data provided by the company
 - Power BI to create dashboard for visualization
 - Github for Portfolio building
 
-
+### Exploratory Data Analysis
+---
+EDA involved the exploring of the data to answer some questions about the data such as;
+ - what is the total sales
+ - what is the total sales by products
+ - what is the total revenue by region
+ - what is the total number of customers
+ - what is the highest selling product
 
 
