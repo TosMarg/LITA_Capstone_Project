@@ -44,5 +44,16 @@ This is where we use excel formulas to calculate some metrics such as;
     ![pivot sales data 2](https://github.com/user-attachments/assets/039d8a65-5d79-4cdd-80d4-78c5a760161e)
 
   - SQL to write and validates some quaries;
-     ```SQL
-     Select * from [dbo].[Capstone_SalesDataset]
+     
+     ![sql sales data](https://github.com/user-attachments/assets/e04faa81-04e2-4694-8429-ea24b3d598c6)
+     
+    ![sql sales data 2](https://github.com/user-attachments/assets/1dfcd9c4-4f5e-4761-8211-77fbf61e0737)
+     ![sql sales data 3](https://github.com/user-attachments/assets/a08b0fe3-60f3-4cb3-9588-d939fb64b472)
+    ![sql sales data 4](https://github.com/user-attachments/assets/3201876f-bbb8-4e3e-9ddf-177b639a1065)
+     ![sql sales data10](https://github.com/user-attachments/assets/7b2f856b-031f-468d-96b0-1001d3810342)
+     ![sql sales data11](https://github.com/user-attachments/assets/30a40a2a-cd8b-4831-a6dc-ca60df753b6f)
+
+
+ 
+
+ 
