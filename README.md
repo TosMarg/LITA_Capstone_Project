@@ -42,3 +42,7 @@ This is where we use excel formulas to calculate some metrics such as;
   - Pivot table to summarize total sales by product, region and month
     ![pivot sales data](https://github.com/user-attachments/assets/50d402f0-c0d5-4fd6-8f7b-e50ab4c8f859)
     ![pivot sales data 2](https://github.com/user-attachments/assets/039d8a65-5d79-4cdd-80d4-78c5a760161e)
+
+  - SQL to write and validates some quaries;
+     ```SQL
+     Select * from [dbo].[Capstone_SalesDataset]
